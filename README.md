@@ -1,4 +1,3 @@
-# Countdown Timer ⏳
 
 A simple Python-based countdown timer that allows the user to input time in days, hours, minutes, and seconds, and counts down to zero.
 
