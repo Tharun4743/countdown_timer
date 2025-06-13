@@ -15,7 +15,7 @@ def countdown_timer(total_seconds):
         total_seconds -= 1
     print("\nTime's up!")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     try:
         days = int(input("Enter days: "))
         hours = int(input("Enter hours: "))
