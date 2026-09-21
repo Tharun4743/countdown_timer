@@ -89,7 +89,7 @@ flowchart LR
 ## 5. 📈 Quantifiable Impact & Measurable Benefits
 * 🎯 **Zero Distraction Utility:** Single-purpose, instant-launch productivity tool for focused coding sessions.
 * ⚡ **Minimal Resource Consumption:** Negligible CPU and memory footprint on desktop systems.
-* 💻 **Cross-Platform Portability:** Runs seamlessly on Windows, macOS, and Linux without external third-party dependencies.
+* 💻 **Cross-Platform Portability:** Runs seamlessly on Windows and macOS without external third-party dependencies.
 * 🛡️ **Unbreakable Resilience:** Zero crashes achieved through comprehensive defensive input sanitization.
 
 ---
